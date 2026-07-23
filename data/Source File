@@ -1,0 +1,4 @@
+census.csv (US Census county-level population estimates, 2010–2015):
+🔗 https://raw.githubusercontent.com/sidsriv/Introduction-to-Data-Science-in-python/master/census.csv
+life.csv (Gapminder — country/continent/year/life expectancy/population/GDP per capita):
+🔗 https://raw.githubusercontent.com/kirenz/datasets/master/gapminder.csv
